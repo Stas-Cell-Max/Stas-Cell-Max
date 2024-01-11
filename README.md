@@ -1,4 +1,4 @@
-### Hi you 👋
+### Hi You 👋
 My name is Stanislav Morozan
 ==================================
 
