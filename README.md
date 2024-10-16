@@ -50,5 +50,5 @@ I am a Full Stack Web Developer specialized in React.js, Node.js, and Agile meth
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Stas-Cell-Max/SM_professional-portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Stas-Cell-Max&repo=SM_professional-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Stas-Cell-Max/StanislavMorozan-Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Stas-Cell-Max&repo=StanislavMorozan-Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
